@@ -1,0 +1,93 @@
+*{
+box-sizing: border-box;
+font-family: 'Press Start 2P', cursive;
+}
+#menu{
+    background-color: rgb(74 222 128);
+    width: 35%;
+    height: 200px;
+    position: absolute;
+    margin-top: 10%;
+    margin-left: 32%;
+    border: 2px solid black;
+    align-items: center;
+}
+#title{
+    font-size: 24pt;
+    text-align: center;
+    
+}
+.bts{
+   padding: 10px;
+   width: 50%;
+   margin-left: 25%;
+   margin-top: 3%;
+}
+.bts:hover{
+    cursor: pointer;
+
+}
+#reiniBtn{
+    display: none;
+    margin-top: 4%;
+}
+#namep1{
+    position: absolute;
+    font-size: 12pt;
+    color: black;
+    margin-top: -5%;
+    font-weight: bold;
+    margin-left: 1%;
+    
+}
+#namep2{
+    position: absolute;
+    font-size: 12pt;
+    color: black;
+    margin-top: -5%;
+    font-weight: bold;
+    margin-left: 85%;
+    justify-content: flex-end;
+    
+
+}
+.imgsinst{
+    width: 30px;
+    height: 30px;
+
+}
+#inst{
+    background-color: rgb(74 222 128);
+    width: 45%;
+    height: 300px;
+    position: absolute;
+    margin-top: 10%;
+    margin-left: 27%;
+    border: 2px solid black;
+    align-items: center;
+    display: none;
+}
+.title1 {
+font-size: 12pt;
+text-align: center;
+}
+.title2, .title3{
+    font-size: 8pt;
+}
+#navcentr{
+    display: flex;
+}
+#instnavp1, #instnavp2{
+    width: 44%;
+    margin-left: 3%;
+} 
+#imgmov{
+    width: 80px;
+}
+#startBtn{
+  
+
+}
+#optionBtn{
+    
+}

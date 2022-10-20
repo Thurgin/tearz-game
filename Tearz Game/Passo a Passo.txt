@@ -1,0 +1,6 @@
+Tearz Game Fighting
+Passos:
+1. Project Setup(Pastas, canvas,background)
+2. Create Player and Enemy(Classe Sprite, constructor, desenhar, Animate, Update)
+3. Move Characters with Event Listeners(Kep Up, Key Down, Pressed, macetes)
+4. Attacks(Attack box, colisão)
